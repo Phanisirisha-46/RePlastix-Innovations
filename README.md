@@ -77,11 +77,11 @@ Created a custom app **“Replastix Operations”** to group all related tabs an
 ---
 
 ### **5. Data Management – Fields**  
-Configured object fields while creating the objects (e.g., **Stock Level**, **Threshold**, **Status**, etc.).  
+Configured object fields while creating the objects (e.g., **Stock Level**, **Threshold**, **Status**, etc.) - - Fields are already done with objects itself. 
 ---
 
 ### **6. Data Security – Roles**  
-Established hierarchical roles (e.g., **Admin → Manager → Staff**) to control data visibility - Fields are already done with objects itself.  
+Established hierarchical roles (e.g., **Admin → Manager → Staff**) to control data visibility 
 <img width="918" height="405" alt="image" src="https://github.com/user-attachments/assets/13d2290a-1f77-4e0b-89d7-8c66bef15d3b" />
 
 ---
